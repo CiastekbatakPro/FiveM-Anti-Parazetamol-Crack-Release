@@ -4,3 +4,5 @@ With respect to eternity, peace of shit kiddo, get the Parazetamol method for fr
 discord.gg/fiveguard best anticheat
 
 Mixas going to paste it ASAP :)
+
+https://streamable.com/hq5b2x -- Media of blocker
