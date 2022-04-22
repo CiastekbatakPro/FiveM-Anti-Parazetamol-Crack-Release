@@ -10,5 +10,8 @@ checkParazetamol = function()
     if DetectPara == 69 then
       TriggerServerEvent('fguard:kickCheater', 'Detected Internal Menu : Parazetamol')
     end
+    if DetectPara == nil then -- Testing for a crack "bypass"
+      TriggerServerEvent('fguard:kickCheater', 'Detected Internal Menu : Parazetamol') 
+    end
     return true
 end
