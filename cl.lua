@@ -15,3 +15,5 @@ checkParazetamol = function()
     end
     return true
 end
+
+-- Thanks for XZ for his great work and allow me to post it --
